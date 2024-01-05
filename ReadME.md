@@ -1,4 +1,4 @@
-### Hey there! 	:ghost:
+### Hey there! 	
 
 - :woman_student: I'm pursuing Master's in Computer Science at Rochester Institute of Technology.
 - :woman_technologist: I’m looking to collaborate on deep learning and big data research projects.
